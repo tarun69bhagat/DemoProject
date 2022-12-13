@@ -1,24 +1,20 @@
 //
-//  ViewController.swift
+//  SignUpVC.swift
 //  Demo Translation
 //
 //  Created by Tarun Bhagat on 13/12/22.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
+class SignUpVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        
         print("abc_abc")
         print("def_def")
         print("ghi_ghi")
         print("jkl_jkl")
     }
-
-
 }
-
